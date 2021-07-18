@@ -6,7 +6,7 @@
  */
 
 #pragma once
-#include "systems/compass/rsms/rsms_types.h"
+#include "rsms_types.h"
 
 #ifdef __STM32_SPI_PERIPHERAL
 #define _H_RSMS_P

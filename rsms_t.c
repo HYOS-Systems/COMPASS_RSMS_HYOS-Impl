@@ -5,7 +5,7 @@
  *      Author: Bayram
  */
 
-#include "systems/compass/rsms/rsms_t.h"
+#include "rsms_t.h"
 
 #ifdef _H_RSMS_T
 

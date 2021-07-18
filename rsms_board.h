@@ -5,9 +5,9 @@
  *      Author: Bayram
  */
 
-#include "systems/compass/rsms/rsms_types.h"
-#include "systems/compass/rsms/rsms_p.h"
-#include "systems/compass/rsms/rsms_t.h"
+#include "rsms_types.h"
+#include "rsms_p.h"
+#include "rsms_t.h"
 
 void RSMS_BOARD_init(RSMS_PeripheralStruct *rsms_PeripheralStruct);
 void RSMS_BOARD_tick(void);

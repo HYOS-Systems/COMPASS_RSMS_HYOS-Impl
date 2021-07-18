@@ -5,7 +5,7 @@
  *      Author: Bayram
  */
 
-#include "systems/compass/rsms/rsms_board.h"
+#include "rsms_board.h"
 
 RSMS_PeripheralStruct *rsms_struct;
 
